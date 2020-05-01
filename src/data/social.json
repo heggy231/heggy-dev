@@ -1,0 +1,16 @@
+{
+    "links": [
+        {
+            "type": "github",
+            "title": "GitHub",
+            "icon": "fa-github",
+            "url": "https://github.com/heggy231"
+        },
+        {
+            "type": "devto",
+            "title": "DEV",
+            "icon": "fa-dev",
+            "url": "https://dev.to/heggy231"
+        }
+    ]
+}
