@@ -22,16 +22,6 @@
                 "url": "https://twitter.com/heggyhere",
                 "new_window": true
             },
-            {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            },
-            {
-                "text": "Generated from DEV",
-                "url": "https://dev.to/connecting-with-stackbit",
-                "new_window": true
-            }
         ]
     },
     "title": "Stackbit Fresh Theme"
