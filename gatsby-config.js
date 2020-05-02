@@ -37,6 +37,7 @@ module.exports = {
                 pageContextProperty: `menus`,
                 menus: require('./src/data/menus.json'),
             }
-        }
+        },
+        `gatsby-plugin-favicon`
     ]
 };
